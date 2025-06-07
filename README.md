@@ -39,6 +39,7 @@ Capturas de pantalla
 _Agrega aquí imágenes de la interfaz gráfica de la aplicación para mejorar la presentación._
 
 ![Interfaz principal](https://drive.google.com/file/d/11q24fataecwaUsyCalauJl5Ux1TtSnXD/view?usp=drive_link)
+https://drive.google.com/file/d/11q24fataecwaUsyCalauJl5Ux1TtSnXD/view?usp=drive_link
 
 
 Video 
